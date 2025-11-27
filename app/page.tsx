@@ -174,28 +174,28 @@ export default function Home() {
                 title: 'E-Commerce Platform',
                 desc: 'Modern marketplace experience',
                 image:
-                  '/download.jpg',
+                  '/ecommerse.jpg',
               },
               {
                 id: 2,
                 title: 'Brand Identity',
                 desc: 'Comprehensive branding solution',
                 image:
-                  '/portfolio-branding.jpg',
+                  '/Branding.jpg',
               },
               {
                 id: 3,
                 title: 'Mobile App',
                 desc: 'iOS & Android development',
                 image:
-                  '/What Are The Challenges Of iOS App Agency_.jpg',
+                  '/app.jpg',
               },
               {
                 id: 4,
                 title: 'SaaS Dashboard',
                 desc: 'Enterprise analytics platform',
                 image:
-                  '/SaaS Application Development.jpg',
+                  '/saas.jpg',
               },
             ].map((project) => (
               <Link key={project.id} href={`/portfolio/${project.id}`}>

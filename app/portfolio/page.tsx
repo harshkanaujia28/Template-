@@ -15,7 +15,7 @@ export default function Portfolio() {
       category: 'web-design',
       challenge: 'Build modern marketplace',
       results: '250% revenue increase',
-      image: '/download.jpg'
+      image: '/ecommerse.jpg'
     },
     {
       id: 2,
@@ -23,7 +23,7 @@ export default function Portfolio() {
       category: 'branding',
       challenge: 'Create distinctive brand',
       results: '90% brand recognition',
-      image: '/portfolio-branding.jpg'
+      image: '/Branding.jpg'
     },
     {
       id: 3,
@@ -31,7 +31,7 @@ export default function Portfolio() {
       category: 'development',
       challenge: 'iOS & Android native app',
       results: '100K+ downloads',
-      image: '/What Are The Challenges Of iOS App Agency_.jpg'
+      image: '/app.jpg'
     },
     {
       id: 4,
@@ -39,7 +39,7 @@ export default function Portfolio() {
       category: 'web-design',
       challenge: 'Complex data visualization',
       results: '95% user satisfaction',
-      image: '/SaaS Application Development.jpg'
+      image: '/saas.jpg'
     },
     {
       id: 5,
@@ -47,7 +47,7 @@ export default function Portfolio() {
       category: 'strategy',
       challenge: 'Multi-channel campaign',
       results: '400% ROI',
-      image: '/portfolio-marketing-campaign.jpg'
+      image: '/marketing.jpg'
     },
     {
       id: 6,
@@ -55,7 +55,7 @@ export default function Portfolio() {
       category: 'development',
       challenge: 'Real-time collaboration',
       results: '50M+ pages indexed',
-      image: '/How To Actually Market Your Content Marketing Initiatives.jpg'
+      image: '/content.jpg'
     }
   ];
 
